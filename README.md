@@ -10,7 +10,7 @@ Please use this wisely and with integrity. The purpose of the tool is to avoid t
 
 Currently it is tested with Chrome on Mac OS. 
 
-### General set-up
+### Initial set-up
 
 If using Anaconda, if needed you can create a new environment with:
 
@@ -24,7 +24,7 @@ Wether creating a new environment or not, install the requirements:
 
 `$ pip install -r requirements.txt`
 
-### About the log in credentials
+### About the log in credentials and other constants
 
 Add to your _~/.bash_profile_ two environment variables:
 
@@ -33,6 +33,10 @@ BAMBOO_USR='your_username'
 BAMBOO_PWD='your_pwd'
 
 (and if necessary run `$ source ~/.bash_profile`).
+
+Look in the _constants.py_ file, and change what's necessary for your needs.
+
+**important:** Change the bamboo url string with the correct link for your organization.
 
 ### On setting up the cron job (on Mac OS)
 
