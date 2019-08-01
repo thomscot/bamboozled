@@ -55,7 +55,7 @@ you can hard-code your credentials... making sure not to push them.
 
 #### A note on cron.txt:
 
-* * * * * /path/to/python /path/to/script.py
+_* * * * * /path/to/python /path/to/script.py_
 
 The dots have the following meaning (from left to right):
 
