@@ -57,7 +57,7 @@ you can hard-code your credentials... making sure not to push them.
 
 * * * * * /path/to/python /path/to/script.py
 
-The asteriscs have the following meaning (from left to right):
+The dots have the following meaning (from left to right):
 
 - minutes (0-59)
 - hour (0-23)
