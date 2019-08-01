@@ -35,7 +35,8 @@ BAMBOO_PWD='your_pwd'
 (and if necessary run `$ source ~/.bash_profile`).
 
 Look in the _constants.py_ file, and change what's necessary for your needs.
-*important:* Change the bamboo url string with the correct link for your organization.
+
+**important:** Change the bamboo url string with the correct link for your organization.
 
 ### On setting up the cron job (on Mac OS)
 
