@@ -1,6 +1,6 @@
 # bamboozled
 
-Tired of manually clocking in and out from bamboo HR webpage? This tool is for you.
+Keep forgetting to clock in or out of Bamboo HR system? Or simply tired of having to manually do so every day? This tool is for you.
 
 The scripts use the germanium library (https://germaniumhq.com/) to automate clock-in/out operations.
 
