@@ -1,0 +1,4 @@
+# cron settings
+
+20 09 * * 1,2,3,4,5 /path/to/python /path/to/clock_in.py
+45 18 * * 1,2,3,4,5 /path/to/python /path/to/clock_out.py
