@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
 	b = Bamboozled(constants.BROWSER, usr, pwd)
 
-	b.test_run(5)
+	b.test_run(sleep_time=5)
 
 
 

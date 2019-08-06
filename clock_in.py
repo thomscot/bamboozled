@@ -15,7 +15,7 @@ pwd = os.getenv(constants.BAMBOO_ENV, "my_password")
 
 b = Bamboozled(constants.BROWSER, usr, pwd)
 
-# open web-page, log-in, and clock out
+# open web-page, log-in, and clock in
 b.open_bamboo()
 b.standard_log_in()
 b.clock_in()
