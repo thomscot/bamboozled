@@ -6,7 +6,7 @@ The scripts use the germanium library (https://germaniumhq.com/) to automate clo
 
 This tool is designed to run every day from Monday to Friday twice a day: once in the morning to clock in, once in the evening to clock out. Some simple randomness is added so that the clock in/out operation will not be performed always at the same time.
 
-Please use this wisely and with integrity. The purpose of the tool is to avoid the bother of manually clocking in and out, and the chances of forgetting to do so. It is NOT intended to cheat on your daily hours.
+Please use this wisely and with integrity: the purpose of the tool is to avoid the bother of manually clocking in and out, and the chances of forgetting to do so. **It is NOT intended to cheat on your daily hours.**
 
 Currently it is tested with Chrome on Mac OS. 
 
